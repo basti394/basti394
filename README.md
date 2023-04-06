@@ -1,6 +1,6 @@
 ## 👤 About me:
 Hi, I'm 18 years old and started software engineering roughly 3 years ago. Currently, I'm working for the german tech company CHECK24 at the Android Team. 
-What I planned to do after school (yeah I'm still in school for 6 weeks ☹️) is to apply for business informatics at the Technical University in Munich and also starting a little startup I'm also currently working on with two folks from CHECK24. You can also check out my social media links I added below.
+What I planned to do after school (yeah I'm still in school for 6 weeks ☹️) is to apply for business informatics at the Technical University in Munich and also to start a startup I'm also currently working on with two folks from CHECK24. You can also check out my social media links I added below.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-jung-73547a1a9) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14883879) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/basti394) 
