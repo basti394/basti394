@@ -1,5 +1,5 @@
 ## 👤 About me:
-Hi, I'm 18 years old and started software engineering roughly 3 years ago. Currently, I'm working at the german tech company CHECK24 at the Android Team. 
+Hi, I'm 18 years old and started software engineering roughly 3 years ago. Currently, I'm working for the german tech company CHECK24 at the Android Team. 
 What I planned to do after school (yeah I'm still in school for 6 weeks ☹️) is to apply for business informatics at the Technical University in Munich and also starting a little startup I'm also currently working on with two folks from CHECK24. You can also check out my social media links I added below.
 
 ## 🌐 Socials:
